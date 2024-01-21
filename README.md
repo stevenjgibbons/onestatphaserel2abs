@@ -1,4 +1,12 @@
 # onestatphaserel2abs
+
+onestatphaserel2abs v1.0.0 is permanently archived on Zenodo on:  
+https://zenodo.org/doi/10.5281/zenodo.10546470  
+with DOI: 10.5281/zenodo.10546470
+
+[![DOI](https://zenodo.org/badge/746230372.svg)](https://zenodo.org/doi/10.5281/zenodo.10546470)
+
+
 Program to convert a set of event-vs-event times to one time per event (modified VanDecar Crosson)
 
 We have a list of lines of the following format  
