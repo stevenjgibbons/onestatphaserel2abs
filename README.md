@@ -38,3 +38,15 @@ pages = {150--169},
 with a few modifications to allow for the fact that the times are associated with different events rather than different stations for the same event (since this can involve huge time-differences between events).  
 
 The onestatphaserel2abs program finds the set of absolute times that best fit the relative time measurements.  
+
+The program takes 3 arguments:  
+
+(1) The station name  
+(2) The phase name  
+(3) One of the following keywords:  Bayesloc, Residual, Replace, Display, Allpairs  
+
+with the times file provided as standard input.  
+
+There is an example in each of the directories Finland_example and DPRK_example.
+
+
