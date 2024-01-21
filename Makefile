@@ -5,7 +5,6 @@
 # lines have the correct locations of LAPACK, and BLAS
 # BINDIR must be set to the directory in which you want the executable to reside
 #
-SACLIB  = ${SACHOME}/lib/libsacio.a
 LAPACK= /usr/lib/x86_64-linux-gnu/liblapack.a
 BLAS= /usr/lib/x86_64-linux-gnu/libblas.a
 TOPDIR=   /home/stg/SRC
