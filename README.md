@@ -4,7 +4,10 @@ onestatphaserel2abs v1.0.0 is permanently archived on Zenodo on:
 https://zenodo.org/doi/10.5281/zenodo.10546470  
 with DOI: 10.5281/zenodo.10546470
 
-[![DOI](https://zenodo.org/badge/746230372.svg)](https://zenodo.org/doi/10.5281/zenodo.10546470)
+[![DOI](https://zenodo.org/badge/746230372.svg)](https://zenodo.org/doi/10.5281/zenodo.10546470)  
+
+[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/H7vY5GrCT5OGmKJahW15Pw "SQAaaS bronze badge achieved")  
+[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-bronze-e6ae77)](https://api.eu.badgr.io/public/assertions/H7vY5GrCT5OGmKJahW15Pw "SQAaaS bronze badge achieved")  
 
 
 Program to convert a set of event-vs-event times to one time per event (modified VanDecar Crosson)
